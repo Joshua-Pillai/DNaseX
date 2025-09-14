@@ -1,5 +1,5 @@
-# DNaseX
-
+#DNaseX
+```bibtex
 @Article{
   author  = {Joshua Pillai, Kijung Sung, Chengbiao Wu},
   journal = {BioRxiv},
@@ -7,3 +7,4 @@
   year    = {2025},
   doi     = {XX}
 }
+```

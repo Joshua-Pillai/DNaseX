@@ -1,9 +1,9 @@
 # DNaseX
 ```bibtex
 @Article{
-  authors  = {Joshua Pillai, Linda Shi, Chengbiao Wu},
+  authors  = {Joshua P. Pillai, Veronica Gomez Godinez, John A. Sayer, Linda Shi},
   journal = {BioRxiv},
-  title   = {A molecular and structural basis for human DNaseX},
+  title   = {A structural basis for human DNaseX with AlphaFold3},
   year    = {2025},
   doi     = {XX}
 }
